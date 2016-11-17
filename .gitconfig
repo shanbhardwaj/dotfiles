@@ -1,0 +1,7 @@
+[fetch]
+	prune = true
+[user]
+	name = Shantanu
+	email = bhardwaj.10@gmail.com
+[core]
+	editor = emacsclient
