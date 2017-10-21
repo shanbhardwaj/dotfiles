@@ -5,3 +5,6 @@
 	email = bhardwaj.10@gmail.com
 [core]
 	editor = emacsclient
+[github]
+	user = shanbhardwaj
+	oauth-token = e78659deac03af88b1c4fa9426a9235b67f3e2ea
