@@ -1,1 +1,0 @@
-/Users/shan/.config/fisherman/rbenv/completions/rbenv.fish

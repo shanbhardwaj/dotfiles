@@ -1,1 +1,0 @@
-/Users/shan/.config/fisherman/nvm/functions/nvm.fish
