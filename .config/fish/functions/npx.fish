@@ -1,0 +1,1 @@
+/Users/shan/.config/fisherman/nvm/functions/npx.fish

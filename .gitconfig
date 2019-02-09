@@ -8,3 +8,20 @@
 [github]
 	user = shanbhardwaj
 	oauth-token = e78659deac03af88b1c4fa9426a9235b67f3e2ea
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[magithub]
+	online = false
+[magithub "status"]
+	includeStatusHeader = false
+	includePullRequestsSection = false
+	includeIssuesSection = false
+[commit]
+  template = ~/.gitmessage
+[alias]
+	plog = log --graph --pretty=format:'%h -%d %s %n' --abbrev-commit --date=relative --branches
+[push]
+	followTags = true
